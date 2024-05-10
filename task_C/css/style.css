@@ -1,0 +1,37 @@
+html{
+    font-size: 62.5%;
+}
+body{
+    font-size: 1.6rem;
+}
+.title{
+    text-decoration: underline;
+    border-bottom: 1px solid #000;
+    padding-bottom: 1.5rem;
+    font-size: 3rem;
+}
+
+.blue{
+    color: blue;
+}
+
+.orange{
+    color: orange;
+}
+
+.yellow{
+    background-color: yellow;
+    color: brown;
+}
+
+.red{
+    color: red;
+}
+
+.blue-list{
+    color: blue;
+}
+
+.list-without-style{
+    list-style-type: none;
+}

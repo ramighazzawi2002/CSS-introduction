@@ -1,0 +1,14 @@
+table{
+    margin-left: 20px;
+}
+td{
+    border: 1px solid #000;
+    border-radius: 3px;
+    padding: 5px;
+    margin: 0 10px 10px 0;
+    display: inline-block;
+    box-shadow: 3px 3px 4px rgba(0,0,0,0.3);
+}
+th{
+    text-align: left;
+}

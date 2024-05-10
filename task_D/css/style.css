@@ -1,0 +1,30 @@
+html{
+    font-size: 62.5%;
+}
+body{
+    font-size: 3rem;
+}
+.container{
+    background-color: #FAF8F9;
+    display: inline-block;
+    padding: .5rem .5rem 0 .5rem;
+}
+.container section{
+    display: inline-block;
+}
+
+.container .second_section{
+     margin-left: 5rem;
+}
+
+.container .first_child, .container span{
+    color: #565F9B;
+    background-color: #E8E8E8;
+    padding: 1rem;
+    width: 4rem;
+    height: 4rem;
+    display: inline-block;
+    margin: 0 .5rem .5rem 0;
+    font-weight: bold;
+    text-align: center;
+}
